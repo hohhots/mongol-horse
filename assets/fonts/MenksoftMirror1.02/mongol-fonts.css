@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    /* This is a font-stack that tries to use the system-default sans-serifs first */
+    font-family: "MenksoftHawang_mirror";
+    line-height: 1.5;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+    font-family: 'MenksoftQagan_mirror';
+    src: url('MenksoftQagan_mirror.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MenksoftHara_mirror';
+    src: url('MenksoftHara_mirror.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MenksoftGarqag_mirror';
+    src: url('MenksoftGarqag_mirror.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MenksoftScnin_mirror';
+    src: url('MenksoftScnin_mirror.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MenksoftHawang_mirror';
+    src: url('MenksoftHawang_mirror.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+

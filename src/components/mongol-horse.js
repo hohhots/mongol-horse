@@ -76,7 +76,7 @@ class MyApp extends connect(store)(LitElement) {
       }
 
       [main-title] {
-        font-family: 'Pacifico';
+        font-family: "MenksoftScnin_mirror";
         text-transform: lowercase;
         font-size: 30px;
         /* In the narrow layout, the toolbar is offset by the width of the
@@ -265,4 +265,4 @@ class MyApp extends connect(store)(LitElement) {
   }
 }
 
-window.customElements.define('my-app', MyApp);
+window.customElements.define('mongol-horse', MyApp);
