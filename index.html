@@ -33,7 +33,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   <!-- See https://goo.gl/qRE0vM -->
   <meta name="theme-color" content="#3f51b5">
 
-  <link rel="stylesheet" href="assets/fonts/MenksoftMirror1.02/mongol-fonts.css">
+  <link rel="stylesheet" href="assets/fonts/mongol-fonts.css">
 
   <script>
     // Load and register pre-caching Service Worker
@@ -52,13 +52,18 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
   <!-- Load webcomponents-loader.js to check and load any polyfills your browser needs -->
   <script src="node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+
+  <script type="module" src="src/components/mongol/packages/mv-body/mv-body.js" crossorigin></script>
+
   <!-- Built with love using PWA Starter Kit -->
   <script type="module" src="src/components/mongol-horse.js" crossorigin></script>
 
 </head>
 
 <body>
-  <mongol-horse appTitle="mongol horse matirial"></mongol-horse>
+  <mv-body>
+    <mongol-horse appTitle="ᠠᠳᠤᠭᠤᠨ ᠰᠤᠶᠤᠯ ᠤᠨ ᠦᠵᠡᠰᠬᠦᠯᠡᠩ"></mongol-horse>
+  </mv-body>
   <noscript>
     Please enable JavaScript to view this website.
   </noscript>

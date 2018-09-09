@@ -40,7 +40,7 @@ export const SharedStyles = html`
 
   @media (min-width: 460px) {
     h2 {
-      font-size: 36px;
+      font-size: 20px;
     }
   }
 

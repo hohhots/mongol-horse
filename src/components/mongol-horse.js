@@ -76,7 +76,7 @@ class MyApp extends connect(store)(LitElement) {
       }
 
       [main-title] {
-        font-family: "MenksoftScnin_mirror";
+        // font-family: "MenksoftScnin_mirror";
         text-transform: lowercase;
         font-size: 30px;
         /* In the narrow layout, the toolbar is offset by the width of the
@@ -189,9 +189,9 @@ class MyApp extends connect(store)(LitElement) {
 
       <!-- This gets hidden on a small screen-->
       <nav class="toolbar-list">
-        <a selected?="${_page === 'view1'}" href="/view1">View One</a>
-        <a selected?="${_page === 'view2'}" href="/view2">View Two</a>
-        <a selected?="${_page === 'view3'}" href="/view3">View Three</a>
+        <a selected?="${_page === 'view1'}" href="/view1">ᠠᠳᠤᠭᠤᠨ ᠰᠤᠶᠤᠯ</a>
+        <a selected?="${_page === 'view2'}" href="/view2">ᠮᠤᠷᠢᠨ ᠮᠡᠷᠬᠡᠵᠢᠯ</a>
+        <a selected?="${_page === 'view3'}" href="/view3">ᠠᠳᠤᠭᠤᠨ ᠤᠷᠠᠯᠢᠭ</a>
       </nav>
     </app-header>
 
@@ -214,6 +214,7 @@ class MyApp extends connect(store)(LitElement) {
     </main>
 
     <footer>
+      <p>ᠬᠣᠯᠪᠤᠭ᠎ᠠ ᠪᠠᠷᠢᠬᠤ᠄ 0471-6303943 ᠢᠮᠧᠯ᠄ xhw_mgl@sina.com ᠰᠢᠨᠬᠤᠸᠠ ᠮᠤᠩᠭ᠋ᠤᠯ ᠨᠧᠲ</p>
       <p>Made with &hearts; by the Polymer team.</p>
     </footer>
 

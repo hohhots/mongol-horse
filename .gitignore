@@ -1,5 +1,6 @@
 build/
 node_modules/
 test/integration/screenshots-current/
+src/components/mongol
 _site/
 .DS_Store

@@ -19,16 +19,20 @@ class MyView1 extends PageViewElement {
     return html`
       ${SharedStyles}
       <section>
-        <h2>Static page</h2>
-        <p>This is a text-only page.</p>
-        <p>It doesn't do anything other than display some static text.</p>
+        <h2>ᠦᠪᠦᠷ ᠮᠤᠩᠭ᠋ᠤᠯ</h2>
+        <p>ᠰᠤᠷᠭᠠᠨ ᠬᠦᠮᠦᠵᠢᠯ ᠤᠨ ᠶᠠᠮᠤᠨ ᠲᠦᠷᠦᠭᠦᠬᠡᠨ ᠲᠦᠪ ᠤᠨ ᠬᠡᠪᠯᠡᠯ ᠮᠡᠳᠡᠭᠡᠯᠡᠯ ᠤᠨ ᠬᠢᠨ ᠲᠠᠢ ᠬᠠᠮᠲᠤᠷᠠᠨ 2018 ᠤᠨ ᠤ ᠤᠯᠤᠰ ᠳᠠᠶᠠᠭᠠᠷ ᠤᠨ ᠵᠢᠭᠠᠨ ᠬᠦᠮᠦᠵᠢᠬᠦᠯᠦᠭᠰᠡᠨ ᠦᠯᠢᠭᠡᠷ ᠳᠠᠭᠤᠷᠢᠶᠠᠯ ᠰᠤᠩᠭᠤᠬᠤ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ ᠦᠷᠨᠢᠭᠦᠯᠵᠦ᠂ ᠡᠯ᠎ᠡ ᠳᠡᠰ ᠡᠯ᠎ᠡ ᠲᠦᠷᠦᠯ ᠤᠨ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠨᠤᠭᠤᠳ ᠤᠨ ᠳᠡᠪᠰᠢᠭᠦᠯᠦᠭᠰᠡᠨ ᠪᠠ ᠮᠤᠵᠢ ᠶᠢᠨ ᠳᠡᠰ ᠤᠨ ᠰᠤᠷᠭᠠᠨ ᠬᠦᠮᠦᠵᠢᠯ ᠤᠨ ᠰᠠᠯᠠᠭ᠎ᠠ ᠮᠦᠴᠢᠷ ᠤᠨ ᠰᠢᠯᠢᠨ ᠳᠡᠪᠰᠢᠭᠦᠯᠦᠭᠰᠡᠨ ᠪᠦᠬᠦᠢᠯᠡ ᠨᠡᠷ᠎ᠡ ᠳᠡᠪᠰᠢᠭᠰᠡᠳ ᠢ ᠵᠤᠬᠢᠶᠠᠨ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ ᠺᠤᠮᠢᠰ ᠡᠴᠡ ᠬᠢᠨᠠᠨ ᠰᠢᠯᠭᠠᠬᠰᠠᠨ ᠤ ᠳ᠋ᠦ᠋ᠩ ᠳᠤ 64 ᠪᠠᠬᠰᠢ ᠵᠢ ᠵᠢᠰᠢᠭᠳᠡᠭᠴᠢ ᠪᠡᠷ ᠰᠤᠩᠭᠤᠪᠠ᠃ ᠦᠪᠦᠷ ᠮᠤᠩᠭᠤᠯ ᠤᠨ ᠬᠦᠬᠡᠬᠤᠲᠠ ᠦᠨᠳᠦᠰᠦᠲᠡᠨ ᠤ ᠳᠡᠭᠡᠳᠤ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠶᠢᠨ ᠫᠷᠤᠹᠸᠰᠰᠤᠷ ᠠᠯᠲᠠᠨᠰᠠᠩ ᠪᠤᠯᠤᠨ ᠪᠤᠭᠤᠲᠤ ᠬᠤᠲᠠ ᠶᠢᠨ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠳᠤᠮᠳᠠᠳᠤ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠶᠢᠨ ᠡᠮᠡᠭᠲᠡᠢ ᠶᠢᠨ ᠠᠯᠠᠭᠠᠳᠠᠬᠤ ᠪᠦᠮᠪᠦᠭᠡ ᠶᠢᠨ ᠲᠠᠰᠬᠠᠯᠵᠢᠭᠤᠯᠤᠬᠴᠢ ᠬᠤᠤ ᠵᠸᠨ ᠱᠸᠩ ᠬᠤᠶᠠᠷ ᠪᠠᠬᠰᠢ ᠡᠳᠡᠭᠡᠷ ᠵᠢᠰᠢᠭᠳᠡᠭᠴᠢ ᠶᠢᠨ ᠳᠤᠮᠲᠠ ᠪᠠᠬᠲᠠᠯᠴᠠᠵᠠᠢ᠃</p>
       </section>
       <section>
-        <h2>Welcome</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac nisi orci. Maecenas sollicitudin diam in diam efficitur cursus. Morbi sollicitudin in justo tincidunt placerat. Integer tincidunt elementum nisi, eu ornare dolor lacinia eget. Fusce pulvinar massa eget odio placerat, commodo molestie ipsum tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse porttitor id purus eu cursus. Suspendisse arcu nulla, mattis vel hendrerit et, malesuada a elit. Nam at diam ornare, aliquet est sed, malesuada metus. Cras nec enim vel nibh tincidunt euismod ut et enim. Etiam pharetra eros in sodales iaculis. Duis sagittis urna et cursus mollis. Cras tempor rutrum est. Praesent sollicitudin ligula at laoreet placerat. Praesent tortor dui, semper in sapien non, pharetra luctus turpis.</p>
+        <h2>ᠰᠢᠨᠬᠤᠸᠠ ᠮᠤᠩᠭ᠋ᠤᠯ ᠨᠧᠲ</h2>
+        <p>ᠰᠢᠨᠬᠤᠸᠠ ᠮᠤᠩᠭ᠋ᠤᠯ ᠨᠧᠲ ᠬᠦᠬᠡᠬᠤᠳᠠ ᠶᠢᠨ 9 ᠰᠠᠷ᠎ᠠ ᠶᠢᠨ 6 ᠤ᠋ ᠡᠳᠤᠷ ᠤᠨ ᠴᠠᠬᠢᠯᠭᠠᠨ ᠮᠡᠳᠡᠬᠡ ( ᠪᠠᠢ ᠯᠢᠩ ᠳ᠋ᠢ ᠰᠢᠦᠢ ᠮᠧᠢ) 6 ᠤ ᠡᠳᠤᠷ ᠦᠪᠦᠷ ᠮᠤᠩᠭ᠋ᠤᠯ ᠤᠨ ᠦᠪᠡᠷᠳᠡᠬᠡᠨ ᠵᠠᠰᠠᠬᠤ ᠤᠷᠤᠨ ᠤ ᠠᠷᠪᠠᠨ ᠲᠦᠷᠪᠡᠳᠤᠬᠡᠷ 《 ᠲᠠᠯ᠎ᠠ ᠨᠤᠳᠤᠭ ᠤᠨ ᠰᠤᠶᠤᠯ ᠤᠨ ᠦᠪ ᠤᠨ ᠬᠠᠮᠠᠭᠠᠯᠠᠯᠳᠠ ᠶᠢᠨ ᠡᠳᠤᠷ》 ᠤᠨ ᠴᠤᠪᠤᠷᠠᠯ ᠦᠵᠡᠰᠬᠦᠯᠡᠩ ᠦᠪᠦᠷ ᠮᠤᠩᠭ᠋ᠤᠯ ᠤᠨ ᠦᠵᠡᠰᠬᠦᠯᠡᠩ ᠤᠨ ᠤᠷᠳᠤᠨ ᠳᠤ ᠨᠡᠬᠡᠬᠡᠯᠳᠡ ᠪᠡᠨ ᠬᠢᠪᠡ᠃
+        </p>
       </section>
       <section>
-        <p>Vestibulum at est ex. Aenean id ligula id nibh dictum laoreet. Etiam non semper erat. Pellentesque eu justo rhoncus diam vulputate facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam feugiat metus ex, vel fringilla massa tincidunt sit amet. Nunc facilisis bibendum tristique. Mauris commodo, dolor vitae dapibus fermentum, odio nibh viverra lorem, eu cursus diam turpis et sapien. Nunc suscipit tortor a ligula tincidunt, id hendrerit tellus sollicitudin.</p>
+        <p>ᠲᠤᠯᠤᠭᠠᠨ ᠡᠳᠤᠷ ᠦᠷᠬᠦᠯᠵᠢᠯᠡᠬᠦ ᠨᠠᠶᠢᠷ ᠤᠨ ᠬᠤᠭᠤᠴᠠᠭᠠᠨ ᠳᠤ ᠮᠤᠷᠢᠨ ᠮᠡᠷᠬᠡᠵᠢᠯ ᠤᠨ ᠲᠤᠭᠯᠠᠯᠳᠠ᠂ ᠮᠤᠷᠢᠨ ᠤ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ᠂ ᠠᠳᠤᠭᠤᠨ ᠰᠤᠶᠤᠯ ᠤᠨ ᠦᠵᠡᠰᠬᠦᠯᠡᠩ ᠵᠡᠷᠬᠡ ᠭᠤᠤᠯ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ ᠦᠷᠨᠢᠬᠦᠯᠵᠤ᠂ ᠢᠷᠭᠡᠳ ᠲᠦ ᠤᠶᠢᠷ᠎ᠠ ᠵᠠᠢ ᠡᠴᠡ ᠠᠳᠤᠭᠤᠨ ᠰᠤᠶᠤᠯ ᠤᠷᠠᠯᠢᠭ ᠢ ᠲᠠᠨᠢᠭᠤᠯᠵᠤ ᠮᠡᠳᠡᠷᠡᠬᠦᠯᠦᠨ᠎ᠡ᠃
+
+        ᠲᠤᠰ ᠤᠳᠠᠭᠠᠨ ᠤ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ ᠶᠢ ᠦᠪᠦᠷ ᠮᠤᠩᠭ᠋ᠤᠯ ᠤᠨ ᠦᠪᠡᠷᠳᠡᠬᠡᠨ ᠵᠠᠰᠠᠬᠤ ᠤᠷᠤᠨ ᠤ ᠨᠠᠮ ᠤ ᠬᠤᠷᠢᠶᠠᠨ ᠤ ᠤᠬᠠᠭᠤᠯᠬᠤ ᠬᠡᠯᠳᠡᠰ᠂ ᠬᠦᠬᠡᠬᠤᠳᠠ ᠶᠢᠨ ᠨᠠᠮ ᠤᠨ ᠬᠤᠷᠢᠶ᠎ᠠ᠂ ᠵᠠᠰᠠᠭ ᠤᠨ ᠤᠷᠳᠤᠨ ᠡᠴᠡ ᠰᠠᠨᠠᠭᠠᠴᠢᠯᠠᠭᠰᠠᠨ ᠪᠠᠶᠢᠨ᠎ᠠ᠃
+    
+    </p>
       </section>
     `;
   }
