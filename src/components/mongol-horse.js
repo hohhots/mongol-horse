@@ -139,7 +139,6 @@ class MyApp extends connect(store)(LitElement) {
 
       .main-content {
         padding-top: 64px;
-        min-height: 100vh;
       }
 
       .page {
