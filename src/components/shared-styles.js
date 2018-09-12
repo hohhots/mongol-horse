@@ -33,6 +33,7 @@ export const SharedStyles = html`
   }
 
   h2 {
+    font-family: "OrhonGarchagTig";
     font-size: 24px;
     text-align: center;
     color: var(--app-dark-text-color);

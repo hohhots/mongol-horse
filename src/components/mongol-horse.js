@@ -69,6 +69,7 @@ class MyApp extends connect(store)(LitElement) {
         background-color: var(--app-header-background-color);
         color: var(--app-header-text-color);
         border-bottom: 1px solid #eee;
+        font-family: "OrhonGarchagTig";
       }
 
       .toolbar-top {

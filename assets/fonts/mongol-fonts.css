@@ -7,11 +7,36 @@ body {
 
 @font-face {
     font-family: 'OrhonHawangTig';
-    src: url('OrhonHawangTigH/OrhonHawangTig-H-Regular.eot'); /* IE9+ Compat Modes */
-    src: url('OrhonHawangTigH/OrhonHawangTig-H-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('OrhonHawangTigH/OrhonHawangTig-H-Regular.woff') format('woff'), /* Modern browsers */
-         url('OrhonHawangTigH/OrhonHawangTig-H-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
-         url('OrhonHawangTigH/OrhonHawangTig-H-Regular.svg#FontName') format('svg'); /* Legacy iOS */
+    src: url('orhonMirror/hawang/OrhonHawangTig-H.eot');
+    src: url('orhonMirror/hawang/OrhonHawangTig-H.eot?#iefix') format('embedded-opentype'),
+        url('orhonMirror/hawang/OrhonHawangTig-H.woff2') format('woff2'),
+        url('orhonMirror/hawang/OrhonHawangTig-H.woff') format('woff'),
+        url('orhonMirror/hawang/OrhonHawangTig-H.ttf') format('truetype'),
+        url('orhonMirror/hawang/OrhonHawangTig-H.svg#OrhonHawangTig-H') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OrhonGarchagTig';
+    src: url('orhonMirror/garchag/OrhonGarchagTig-H.eot');
+    src: url('orhonMirror/garchag/OrhonGarchagTig-H.eot?#iefix') format('embedded-opentype'),
+        url('orhonMirror/garchag/OrhonGarchagTig-H.woff2') format('woff2'),
+        url('orhonMirror/garchag/OrhonGarchagTig-H.woff') format('woff'),
+        url('orhonMirror/garchag/OrhonGarchagTig-H.ttf') format('truetype'),
+        url('orhonMirror/garchag/OrhonGarchagTig-H.svg#OrhonGarchagTig-H') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OrhonChaganTig';
+    src: url('orhonMirror/chagan/OrhonChaganTigH.ttf');
+    src: url('orhonMirror/chagan/OrhonChaganTig-H.eot?#iefix') format('embedded-opentype'),
+        url('orhonMirror/chagan/OrhonChaganTig-H.woff2') format('woff2'),
+        url('orhonMirror/chagan/OrhonChaganTig-H.woff') format('woff'),
+        url('orhonMirror/chagan/OrhonChaganTig-H.ttf') format('truetype'),
+        url('orhonMirror/chagan/OrhonChaganTig-H.svg#OrhonChaganTig-H') format('svg');
     font-weight: normal;
     font-style: normal;
 }
