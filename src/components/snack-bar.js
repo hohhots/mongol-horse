@@ -35,7 +35,7 @@ class SnackBar extends LitElement {
         visibility: visible;
         transform: translate3d(0, 0, 0);
       }
-      @media (min-width: 460px) {
+      @media (min-height: 460px) {
         :host {
           width: 320px;
           margin: auto;

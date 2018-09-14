@@ -159,7 +159,7 @@ class MyApp extends connect(store)(LitElement) {
 
       /* Wide layout: when the viewport width is bigger than 460px, layout
       changes to a wide layout. */
-      @media (min-width: 460px) {
+      @media (min-height: 460px) {
         .toolbar-list {
           display: block;
         }
